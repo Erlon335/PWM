@@ -150,7 +150,7 @@ elf = 'build/main.elf'
 ## 🎥 Imagens do Projeto
 
 ### 💿 Diagrama Visual do Projeto
-<p align="center"><img width="700" height="400" src=""></p>
+<p align="center"><img width="700" height="400" src="https://github.com/Erlon335/PWM/blob/main/assets/diagrama%20pwm.png"></p>
 
 ### 💿 Video Demonstrativo do Projeto
 
@@ -198,6 +198,6 @@ Mentor: MANOEL MESSIAS DA SILVA JUNIOR
 
 ## 📄 Licença
 
-Este projeto está sob a licença de Érlon Alves da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="">License.md<a/>
+Este projeto está sob a licença de Érlon Alves da Formação Básica em Software Embarcado da Embarcatech - Veja o arquivo <a href="https://github.com/Erlon335/PWM/blob/main/LICENSE">License.md<a/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
