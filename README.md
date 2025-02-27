@@ -113,7 +113,7 @@ $ git clone https://github.com/Erlon335/PWM.git
 #### Wokwi Web
 - Entre no navegador e digite [Wokwi.com]()
 - Faça Upload dos Arquivos <i>diagram.json</i>
-- Faça upload do aquivo <i>Semaforo.c</i>
+- Faça upload do aquivo <i>main.c</i>
 
 #### Extensão Wokwi
 - Abra o Visual Studio
